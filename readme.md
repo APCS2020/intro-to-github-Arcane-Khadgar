@@ -1,1 +1,2 @@
-##This is a test file
+## This is a test file
+### Markdown is a beautiful text syntax
